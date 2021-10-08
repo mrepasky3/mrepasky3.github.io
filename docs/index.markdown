@@ -18,3 +18,8 @@ In May 2021, I earned a BS in Physics with a concentration in [Astrophysics](htt
 1. Denoising Piezoresponse Force Microscopy Data Using Bayesian Low-Rank Matrix Completion  
 Henry Shaowu Yuchi, Matthew Repasky, Gardy Kevin Ligonde, Nazanin Bassiri-Gharb, Yao Xie  
 *Submitted to 2022 IEEE International Conference on Acoustics, Speech and Signal Processing.*
+
+<h3 align="center">Other Info</h3>
+
+* In Fall 2021, I am a graduate teaching assistant for Probability with Applications (ISYE 2027) at Georgia Tech.
+* In Spring 2021, I was a recipient of a President's Undergraduate Research Award (PURA) at Georgia Tech for my undergraduate research with Dr. Xie.
