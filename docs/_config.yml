@@ -62,7 +62,7 @@ navbar-text-col: "#FFFFFF"
 page-col: "#FFFFFF"
 footer-col: "#A4925A"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#003057"
+footer-link-col: "#404040"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
