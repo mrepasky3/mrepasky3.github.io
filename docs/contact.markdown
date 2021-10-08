@@ -1,18 +1,9 @@
 ---
-layout: page
+layout: default
 title: Contact
 permalink: /contact/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+**Personal Email:** mwrepasky [at] gmail.com  
+**School Email:** mwrepasky [at] gatech.edu  
+Also feel free to message me/connect with me on [Linkedin](https://www.linkedin.com/in/matthew-repasky-jr-998529157/)  
