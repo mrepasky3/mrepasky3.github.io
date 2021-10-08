@@ -28,6 +28,9 @@ email: your-email@example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+share-title: Matt Repasky
+share-description: Matt Repasky's Website
+
 navbar-links:
   Home: "mrepasky3.github.io"
   Contact: "contact"
