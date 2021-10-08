@@ -28,6 +28,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mrepasky3
 
+cover-img: heic0910e.jpg
+
 # Build settings
 remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
