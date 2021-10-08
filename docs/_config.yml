@@ -56,6 +56,9 @@ plugins:
   
 gems:
   - jekyll-seo-tag
+  
+navbar-col: "#003057"
+page-col: "#FFFFFF"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
