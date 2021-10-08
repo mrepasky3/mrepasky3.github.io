@@ -39,6 +39,8 @@ share-links-active:
 
 avatar: self_pic.png
 
+round-avatar: true
+
 # Build settings
 remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
