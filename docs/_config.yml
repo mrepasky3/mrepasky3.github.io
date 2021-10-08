@@ -37,7 +37,7 @@ share-links-active:
   github: true
   linkedin: true
 
-avatar: heic0910e.jpg
+avatar: self_pic.png
 
 # Build settings
 remote_theme: daattali/beautiful-jekyll@5.0.0
