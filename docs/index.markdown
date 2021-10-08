@@ -16,7 +16,7 @@ In May 2021, I earned a BS in Physics with a concentration in [Astrophysics](htt
 <h4>Conference Proceedings (Submitted)</h4>
 
 1. Denoising Piezoresponse Force Microscopy Data Using Bayesian Low-Rank Matrix Completion  
-Henry Shaowu Yuchi, Matthew Repasky, Gardy Kevin Ligonde, Nazanin Bassiri-Gharb, Yao Xie  
+Henry Shaowu Yuchi, **Matthew Repasky**, Gardy Kevin Ligonde, Nazanin Bassiri-Gharb, Yao Xie  
 *Submitted to 2022 IEEE International Conference on Acoustics, Speech and Signal Processing.*
 
 <h3 align="center">Other Info</h3>
