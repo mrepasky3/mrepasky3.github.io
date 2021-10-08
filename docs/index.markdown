@@ -5,7 +5,7 @@
 layout: default
 ---
 <h1 align="center">Matt Repasky</h1>
-<a align="center" href="Repasky_CV.pdf">CV</a>
+<h3 align="center" ><a href="Repasky_CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/matthew-repasky-jr-998529157/">Linkedin</a> | <a href="https://github.com/mrepasky3">Github</a></h3>
 
 I am a first-year [Machine Learning](https://ml.gatech.edu/) Ph.D. student at the [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/) at Georgia Tech. I am fortunate to be advised by [Dr. Yao Xie](https://www2.isye.gatech.edu/~yxie77/). I have broad interests in machine learning as it's applied to physics and for social good, including topics in spatial-temporal modelling, reinforcement learning, and simulation. Currently, my research in collaboration with Dr. Xie is focused on: developing methods to detect corrosion in coated materials to reduce the environmental impact of the coating industry, studying fair and efficient policing strategies using RL, and physically characterizing and denoising high-dimensional scanning probe microscopy data.
 
