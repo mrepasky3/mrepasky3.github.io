@@ -58,7 +58,11 @@ gems:
   - jekyll-seo-tag
   
 navbar-col: "#003057"
+navbar-text-col: "#FFFFFF"
 page-col: "#FFFFFF"
+footer-col: "#003057"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
