@@ -15,5 +15,5 @@ In May 2021, I earned a BS in Physics with a concentration in [Astrophysics](htt
 <h3 align="center">Other Info</h3>
 
 * In Spring 2022, I am a graduate teaching assistant/tutor for Regression and Forecasting (ISYE 4031) at Georgia Tech.
-* In Fall 2021, I am a graduate teaching assistant/tutor for Probability with Applications (ISYE 2027) at Georgia Tech.
+* In Fall 2021, I was a graduate teaching assistant/tutor for Probability with Applications (ISYE 2027) at Georgia Tech.
 * In Spring 2021, I was a recipient of a President's Undergraduate Research Award (PURA) at Georgia Tech for my undergraduate research with Dr. Xie.
