@@ -12,14 +12,8 @@ I am a first-year [Machine Learning](https://ml.gatech.edu/) Ph.D. student at th
 
 In May 2021, I earned a BS in Physics with a concentration in [Astrophysics](https://cra.gatech.edu/) from Georgia Tech. Working in the [Computational Cosmology Group](https://cosmo.gatech.edu/) run by [Dr. John Wise](https://cosmo.gatech.edu/members/john-wise/) as an undergraduate student, I managed and analyzed cosmological simulations of stellar clusters in the early universe run on supercomputers at Georgia Tech [PACE](https://pace.gatech.edu/) and the Texas Advanced Computing Center ([TACC](https://www.tacc.utexas.edu/systems/stampede2)).
 
-<h3 align="center">Publications</h3>
-<h4>Conference Proceedings (Submitted)</h4>
-
-1. Denoising Piezoresponse Force Microscopy Data Using Bayesian Low-Rank Matrix Completion  
-Henry Shaowu Yuchi, **Matthew Repasky**, Gardy Kevin Ligonde, Nazanin Bassiri-Gharb, Yao Xie  
-*Submitted to 2022 IEEE International Conference on Acoustics, Speech and Signal Processing.*
-
 <h3 align="center">Other Info</h3>
 
-* In Fall 2021, I am a graduate teaching assistant for Probability with Applications (ISYE 2027) at Georgia Tech.
+* In Spring 2022, I am a graduate teaching assistant/tutor for Regression and Forecasting (ISYE 4031) at Georgia Tech.
+* In Fall 2021, I am a graduate teaching assistant/tutor for Probability with Applications (ISYE 2027) at Georgia Tech.
 * In Spring 2021, I was a recipient of a President's Undergraduate Research Award (PURA) at Georgia Tech for my undergraduate research with Dr. Xie.
