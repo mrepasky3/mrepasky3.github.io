@@ -5,7 +5,7 @@
 layout: default
 ---
 <h1 align="center">Matt Repasky</h1>
-<h3 align="center" ><a href="Repasky_CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/matthew-repasky-jr-998529157/">LinkedIn</a> | <a href="https://github.com/mrepasky3">GitHub</a></h3>
+<h3 align="center" ><a href="Repasky_CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/matthew-repasky-jr-998529157/">LinkedIn</a> | <a href="https://github.com/mrepasky3">GitHub</a> | <a href="https://orcid.org/0009-0007-0329-7515">ORCID</a></h3>
 
 <h3 align="center">About Me</h3>
 I am a [Machine Learning](https://ml.gatech.edu/) Ph.D. candidate in the [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/) at Georgia Tech advised by [Dr. Yao Xie](https://www2.isye.gatech.edu/~yxie77/). My interests are at the intersection of **generative modeling, high-dimensional statistics, and planetary geophysics**. My doctoral research has focused on leveraging deep learning tools for statistical modeling. Recently, I have been developing generative modeling to solve problems related to posterior sampling and inverse problems. This includes an ongoing collaboration with NASA Goddard Space Flight Center to develop a super-resolution technique for lunar topograhy models.  
